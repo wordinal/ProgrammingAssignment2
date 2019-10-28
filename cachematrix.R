@@ -1,4 +1,4 @@
-## Below functions can be used to compute the inverse a matrix, with caching
+## Below functions can be used to compute the inverse of a matrix, with caching
 ## of results for optimization in case of repeated use of the functions on the
 ## same object.
 
